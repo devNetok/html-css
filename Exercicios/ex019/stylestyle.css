@@ -1,0 +1,37 @@
+@charset "UTF-8";
+
+body {
+    background-color: darkolivegreen;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: #141b08;
+}
+
+h1#jesus {
+    text-align: center;
+    background-color: #141b08;
+    color: rgb(173, 255, 126);
+    
+}
+
+.basico {
+    color: #104204;
+}
+
+.medio {
+    color: #194413;
+}
+
+.avançado {
+    color: #062505;
+}
+
+h2 {
+    color: #1f2207;
+}
+
+.destaque {
+    background-color: yellowgreen;
+}

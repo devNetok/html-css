@@ -7,6 +7,5 @@ Estou aprendendo a criar sites e agora vou gerenciar repositórios!
 
   <a href="https://devnetok.github.io/projeto-android/#">Acesse aqui o Projeto Android</a>
 
-Ou escaneie o Código QR
+Divirta-se
 
-<img src="../projeto-android/imagens/frame.png" alt=" QR code android">

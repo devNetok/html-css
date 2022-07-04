@@ -64,23 +64,36 @@ section.normal {
 }
 
 section.normal > p {
-    margin-bottom: 50px;
+    margin-bottom: 2em;
 }
 
 section.imagem {
     background-color: #2b2b2b;
     color: white;
+    box-shadow: inset 3px 6px 13px 0px rgba(0, 0, 0, 0.418);
+    background-size: cover;
+    background-attachment: fixed;
 }
 
 section.imagem > p {
-    background-color: rgba(0, 0, 0, 0.363);
+    background-color: rgba(0, 0, 0, 0.5);
     display: inline-block;
     padding: 5px;
-    
+    text-shadow: 1px 1px 0px black;
+}
+
+section#img01 {
+    background-image: url(../imagens/background001.jpg);
+    background-position: right center;
+}
+
+section#img02 {
+    background-image: url(../imagens/background002.jpg);
 }
 
 footer {
     background-color: black;
     color: white;
     text-align: center;
+    padding: 10px;
 }
